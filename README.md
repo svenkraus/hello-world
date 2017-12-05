@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Hallo Welt - dies ist mein erster Branch.
